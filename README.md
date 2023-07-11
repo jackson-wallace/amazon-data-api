@@ -75,10 +75,6 @@ Before you can use this API, you will need the following:
 
 The API will return a JSON response containing the scraped data from Amazon. In case of any errors, an error object will be returned with details of the error.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Note
 
 This API is for educational and personal use only. Please make sure to comply with Amazon's terms of service and usage policies when utilizing this API.
