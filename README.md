@@ -1,5 +1,7 @@
 # Amazon Scraper API
 
+![Alt Text](assets/screenshot.png)
+
 This is a RESTful API built with Node.js and Express.js that allows you to scrape data from Amazon. It utilizes the **Scraper API** service to retrieve information such as product details, reviews, offers, and search results from the Amazon website. 
 
 ## Prerequisites
